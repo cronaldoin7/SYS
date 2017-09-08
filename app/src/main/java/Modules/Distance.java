@@ -9,6 +9,5 @@ public class Distance {
 
     public Distance(String text, int value) {
         this.text = text;
-        this.value = value;
-    }
+        this.value = value;    }
 }
